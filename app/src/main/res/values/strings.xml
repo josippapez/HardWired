@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">HardWired</string>
+    <string-array name="categories">
+        <item>Processors</item>
+        <item>Graphic Cards</item>
+        <item>Power units</item>
+        <item>RAM memory</item>
+        <item>Storage</item>
+    </string-array>
+    <string-array name="processorNames">
+        <item>Procesor AMD Ryzen 7 2700 BOX, s. AM4, 3.2GHz, 20MB cache, Octa Core, Wraith Stealth LED</item>
+        <item>Intel procesor i3-7100 BOX, Kaby Lake</item>
+        <item>Procesor INTEL Core i5 8500 BOX, s. 1151, 3.0GHz, 9MB cache, HexaCore</item>
+		<item>Procesor AMD Ryzen 5 2600 BOX, s. AM4, 3.4GHz, 19MB cache, HexaCore, Wraith Stealth</item>
+    </string-array>
+    <string-array name="processorPictures">
+        <item>https://www.overclockers.co.uk/media/image/thumbnail/CP39VAM_170308_800x800.jpg</item>
+        <item>https://i.cdn.nrholding.net/36438418/450/450</item>
+        <item>https://www.links.hr/content/images/thumbs/004/0046082_procesor-intel-core-i5-8600k-box-s-1151-3-6ghz-9mb-cache-hexacore-050600066.jpeg</item>
+		<item>https://www.links.hr/content/images/thumbs/005/0050612_procesor-amd-ryzen-5-2600-box-s-am4-34ghz-19mb-cache-six-core-wraith-stealth.jpg</item>
+	</string-array>
+    <string-array name="graphicscardNames">
+        <item>MSI Gaming GeForce GTX 1080 8GB GDDR5X SLI DirectX 12 VR Ready Graphics Card</item>
+        <item>MSI VGA Graphic Cards RX 580 Armor 8G OC</item>
+        <item>ASUS ROG Strix AMD Radeon RX 560 O4GB Gaming OC Edition Graphics Card GDDR5 DP HDMI DVI</item>
+    </string-array>
+    <string-array name="graphicscardPictures">
+        <item>https://images-na.ssl-images-amazon.com/images/I/51Avu5iodlL._SX425_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/I/811fVQidHrL._SX425_.jpg</item>
+        <item>https://www.links.hr/content/images/thumbs/005/0056341_graficka-kartica-pci-e-asus-strix-radeon-rx-560-4gb-ddr5_400.jpg</item>
+    </string-array>
+    <string-array name="powerunitsNames">
+        <item>PSU 350W, CORSAIR VS series VS350 CP-9020095-EU, ATX, 120mm vent.</item>
+        <item>PSU 450W, ANTEC VP450P EC, ATX v2.3, 120mm vent.</item>
+        <item>PSU 650W CORSAIR CX650M Series, CP-9020103-EU, ATX v2.4, 120mm vent., 80+ Bronze</item>
+    </string-array>
+    <string-array name="powerunitsPictures">
+        <item>https://www.links.hr/content/images/thumbs/005/0058322_napajanje-350w-corsair-vs-series-vs350-cp-9020095-eu-atx-120mm-vent-052700216.png</item>
+        <item>https://www.links.hr/content/images/thumbs/001/0010678_napajanje-450w-antec-vp450p-ec-atx-v23-120mm-vent.jpeg</item>
+        <item>https://www.links.hr/content/images/thumbs/005/0057809_napajanje-650w-corsair-cx650m-series-cp-9020103-eu-atx-v2-4-120mm-vent-80-bronze-modularno-05270021.png</item>
+    </string-array>
+    <string-array name="ramMemoryName">
+        <item>Memory PC-17000, 16 GB, G.SKILL Ripjaws 4 series, F4-2133C15D-16GRR, DDR4 2133MHz, kit 2x8GB</item>
+        <item>Memory PC-10600, 4 GB, G.SKILL, F3-10600CL9S-4GBNT, DDR3 1333Mhz</item>
+        <item>Memory PC-17000, 8 GB, GEIL EVO Forza GFR48GB2133C15DC, DDR4 2133MHz, kit 2x4GB</item>
+        <item>Memory PC-22400, 16 GB, APACER, EK.16GAW.GFDK2, DDR4 2800Mhz, kit 2x8GB</item>
+        <item>Memory PC-24000, 8 GB, GEIL Super Luce GLS48GB3000C16ADC, DDR4 3000MHz, kit 2x4GB</item>
+    </string-array>
+    <string-array name="ramMemoryPictures">
+        <item>https://www.links.hr/content/images/thumbs/000/0005577_memorija-pc-17000-16-gb-g-skill-ripjaws-4-series-f4-2133c15d-16grr-ddr4-2133mhz-kit-2x8gb-051210399_400.jpg</item>
+        <item>https://www.links.hr/content/images/thumbs/005/0058518_memorija-pc-10600-4-gb-gskill-f3-10600cl9s-4gbnt-ddr3-1333mhz_400.jpg</item>
+        <item>https://www.links.hr/content/images/thumbs/005/0052488_memorija-pc-17000-8-gb-geil-evo-forza-gfr48gb2133c15dc-ddr4-2133mhz-kit-2x4gb-051200222_400.jpg</item>
+        <item>https://www.links.hr/content/images/thumbs/004/0049975_memorija-pc-22400-16-gb-apacer-ek-16gaw-gfdk2-ddr4-2800mhz-051200206_400.jpg</item>
+        <item>https://www.links.hr/content/images/thumbs/005/0053573_memorija-pc-24000-8-gb-geil-super-luce-gls48gb3000c16adc-ddr4-3000mhz-kit-2x4gb-051200232_400.jpg</item>
+    </string-array>
+    <string-array name="storageNames">
+        <item>Hard disk 1000.0 GB SEAGATE Barracuda Guardian ST1000DM010, HDD, SATA3, 64MB cache, 7200 okr./min, 3.5", for desktop</item>
+        <item>Hard disk 1000.0 GB WESTERN DIGITAL Red, WD10EFRX, SATA3, 64MB cache, IntelliPower, 3.5", for desktop</item>
+        <item>Hard disk 2000.0 GB SEAGATE Desktop Skyhawk Guardian Surveillance ST2000VX008, HDD, SATA3, 64MB cache, 5900 okr./min, 3.5", for desktop</item>
+        <item>SSD 500.0 GB CRUCIAL P1, CT500P1SSD8, M.2, 2280, makx to 1900/950 MB/s</item>
+    </string-array>
+    <string-array name="storagePictures">
+        <item>https://www.links.hr/content/images/thumbs/002/0024723_tvrdi-disk-1000-0-gb-seagate-barracuda-guardian-st1000dm010-hdd-sata3-64mb-cache-7200-okr-min-3-5-z_400.jpg</item>
+        <item>https://www.links.hr/content/images/thumbs/000/0005714_tvrdi-disk-10000-gb-western-digital-red-wd10efrx-sata3-64mb-cache-intellipower-35-za-desktop_400.jpg</item>
+        <item>https://www.links.hr/content/images/thumbs/002/0024725_tvrdi-disk-2000-0-gb-seagate-desktop-skyhawk-guardian-surveillance-st2000vx008-hdd-sata3-64mb-cache_400.jpg</item>
+        <item>https://www.links.hr/content/images/thumbs/005/0056387_ssd-500-0-gb-crucial-p1-ct500p1ssd8-m-2-2280-maks-do-1900-950-mb-s-051400600_400.jpg</item>
+    </string-array>
+    <string-array name="categoryProcessors">
+        <item>http://hardwiredwh.000webhostapp.com/processors.html</item>
+        <item>http://hardwiredwh.000webhostapp.com/processors.html</item>
+        <item>http://hardwiredwh.000webhostapp.com/processors.html</item>
+        <item>http://hardwiredwh.000webhostapp.com/processors.html</item>
+    </string-array>
+    <string-array name="categoryGraphicsCard">
+        <item>http://hardwiredwh.000webhostapp.com/graphiccards.html</item>
+        <item>http://hardwiredwh.000webhostapp.com/graphiccards.html</item>
+        <item>http://hardwiredwh.000webhostapp.com/graphiccards.html</item>
+    </string-array>
+    <string-array name="categoryPowerunits">
+        <item>http://hardwiredwh.000webhostapp.com/powerunits.html</item>
+        <item>http://hardwiredwh.000webhostapp.com/powerunits.html</item>
+        <item>http://hardwiredwh.000webhostapp.com/powerunits.html</item>
+    </string-array>
+    <string-array name="categoryRamMemory">
+        <item>http://hardwiredwh.000webhostapp.com/rammemory.html</item>
+        <item>http://hardwiredwh.000webhostapp.com/rammemory.html</item>
+        <item>http://hardwiredwh.000webhostapp.com/rammemory.html</item>
+        <item>http://hardwiredwh.000webhostapp.com/rammemory.html</item>
+        <item>http://hardwiredwh.000webhostapp.com/rammemory.html</item>
+    </string-array>
+    <string-array name="categoryStoragememory">
+        <item>http://hardwiredwh.000webhostapp.com/storagememory.html</item>
+        <item>http://hardwiredwh.000webhostapp.com/storagememory.html</item>
+        <item>http://hardwiredwh.000webhostapp.com/storagememory.html</item>
+        <item>http://hardwiredwh.000webhostapp.com/storagememory.html</item>
+    </string-array>
+</resources>

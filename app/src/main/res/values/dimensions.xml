@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imageSizeHeight">70dp</dimen>
+    <dimen name="imageSizeWidth">60dp</dimen>
+    <dimen name="imageViewSizeHeight">25dp</dimen>
+    <dimen name="imageViewSizeWidth">25dp</dimen>
+    <dimen name="marginStart">16dp</dimen>
+    <dimen name="marginEnd">10dp</dimen>
+    <dimen name="margingeneral">10dp</dimen>
+    <dimen name="sizeForWeight">0dp</dimen>
+    <dimen name="CellLayoutHeight">50dp</dimen>
+</resources>
